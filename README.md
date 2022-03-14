@@ -13,10 +13,3 @@
   <img align="right" alt="FranciscooNeto-pic" height="150" style="border-radius:50px;" 
 </div>
   
-  ##
- 
-<div> 
-
-  ![Snake animation](https://github.com/FranciscooNeto/FranciscooNeto/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
