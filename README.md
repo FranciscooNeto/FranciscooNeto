@@ -1,9 +1,8 @@
-## Olá, me chamo Francisco é um Prazer enorme que esteja aqui, aproveite meu Conteudo.
+## Olá, me chamo Francisco é um Prazer.
 <div align="center">
   <a href="https://github.com/FranciscooNeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscooNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscooNeto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="FranciscooNeto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="FranciscooNeto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
