@@ -1,12 +1,12 @@
 # Hi there! I'm Francisco Neto 👋
 
-### 🇯🇵 Aspiring Software Engineer for the Japanese Market | Python, Cloud & DevOps Specialist
+### 🇯🇵 Software Engineer | Python, Cloud & DevOps Specialist
 
 ---
 
-I am a highly motivated Software Engineer focused on building scalable, robust, and containerized backend systems. I am currently pursuing an intensive 5-month program to master the most in-demand tech stack in the Japanese market, aiming for a Highly Skilled Professional (HSP) visa sponsorship.
+I am a highly motivated Software Engineer focused on building scalable, robust, and containerized backend systems.
 
-My goal is to leverage my expertise in modern cloud architecture to contribute to innovative tech companies in Japan.
+My goal is to leverage my expertise in modern cloud architecture to contribute to innovative tech companies.
 
 ### 🛠️ Core Tech Stack & Expertise
 
@@ -28,17 +28,7 @@ This project demonstrates my full-stack expertise from data collection to cloud 
 *   **Deployment:** Deployed on **AWS** with a fully automated **CI/CD pipeline** via GitHub Actions.
 *   **Skills Demonstrated:** Python, FastAPI, Docker, K8s, PostgreSQL, AWS, CI/CD.
 
-➡️ **[Link para o Repositório do Projeto]** (Substitua este texto pelo link do seu projeto)
-
-### 📈 Certifications & Goals
-
-| Status | Certification/Goal | Target |
-| :--- | :--- | :--- |
-| ✅ Completed | Python Backend (FastAPI/SQLAlchemy) | **Achieved** |
-| ✅ Completed | Docker & Docker Compose | **Achieved** |
-| ⏳ In Progress | AWS Certified Cloud Practitioner (CLF-C02) | **Next Step** |
-| 🎯 Goal | AWS Certified Developer - Associate | **High Priority** |
-| 🎯 Goal | Kubernetes Certified Kubernetes Administrator (CKA) | **Long-Term Goal** |
+➡️ **[https://github.com/FranciscooNeto/Data-scraping-with-Python]** (Substitua este texto pelo link do seu projeto)
 
 ### 💬 Let's Connect
 
@@ -46,9 +36,9 @@ I am actively seeking opportunities in Japan and am open to discussing my projec
 
 | Contact | Link |
 | :--- | :--- |
-| **GitHub** | [Seu Perfil do GitHub] |
-| **LinkedIn** | [Seu Perfil do LinkedIn] |
-| **Email** | [Seu Email Profissional] |
+| **GitHub** | [https://franciscooneto.github.io/] |
+| **LinkedIn** | [https://www.linkedin.com/in/franciscodasneto/] |
+| **Email** | [franciscodsnetoo@gmail.com] |
 
 ---
 *Made with ❤️ and a clear focus on the Japanese tech market.*
