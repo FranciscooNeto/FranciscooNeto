@@ -28,8 +28,7 @@ This project demonstrates my full-stack expertise from data collection to cloud 
 *   **Deployment:** Deployed on **AWS** with a fully automated **CI/CD pipeline** via GitHub Actions.
 *   **Skills Demonstrated:** Python, FastAPI, Docker, K8s, PostgreSQL, AWS, CI/CD.
 
-➡️ **https://github.com/FranciscooNeto/Data-scraping-with-Python** (Substitua este texto pelo link do seu projeto)
-
+➡️ **https://github.com/FranciscooNeto/Data-scraping-with-Python** 
 ### 💬 Let's Connect
 
 I am actively seeking opportunities in Japan and am open to discussing my projects, architecture decisions, and potential roles.
